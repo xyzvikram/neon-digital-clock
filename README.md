@@ -11,7 +11,7 @@ It shows live time with smooth animation and a dynamic neon effect.
 - Date display
 - Responsive layout
 
----
+---5
 
 ## 📸 Screenshot
 ![Digital Clock Screenshot](screenshot.png)
