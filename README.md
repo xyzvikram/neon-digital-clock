@@ -1,3 +1,4 @@
+
 # 🕒 Neon Animated Digital Clock
 
 A glowing *digital clock* made using *HTML, CSS, and JavaScript*.  
@@ -16,7 +17,7 @@ It shows live time with smooth animation and a dynamic neon effect.
 ## 📸 Screenshot
 ![Digital Clock Screenshot](screenshot.png)
 
----
+---44
 
 ## 🌐 Live Demo
 [👉 Click to View](https://xyzvikram.github.io/neon-digital-clock/)
