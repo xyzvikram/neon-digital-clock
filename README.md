@@ -17,7 +17,7 @@ It shows live time with smooth animation and a dynamic neon effect.
 ## 📸 Screenshot
 ![Digital Clock Screenshot](screenshot.png)
 
----55
+---5445
 
 ## 🌐 Live Demo
 [👉 Click to View](https://xyzvikram.github.io/neon-digital-clock/)
